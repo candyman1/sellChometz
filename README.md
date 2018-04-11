@@ -9,3 +9,6 @@ Currently the server is a localhost server, as per client's needs.
 
 
 ![screenshot 4](https://user-images.githubusercontent.com/28325967/38592828-5192b088-3d0c-11e8-9156-2f1458059210.png)
+
+
+![screenshot 5](https://user-images.githubusercontent.com/28325967/38592868-7ff2cb48-3d0c-11e8-8e6d-65ddf438ab9e.png)
